@@ -33,3 +33,4 @@ Limitaciones/Próximos Pasos:
 
 Enlaces de interés:
 [google slides](https://docs.google.com/presentation/d/1eBlx9hKla9FAeFiUN3BKeECJP97DlD57f0p1xYaDhSE/edit?usp=sharing)
+[informe en looker studio](https://lookerstudio.google.com/reporting/58ab40fa-c933-4253-8695-886ee40f4b21)
