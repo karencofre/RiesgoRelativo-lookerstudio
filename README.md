@@ -26,7 +26,7 @@ Se probo la hipótesis mediante insights concluidos por gráficos y técnicas de
 
 Dashboard
 
-![Dashboard](dashboard.jpg)
+![Dashboard](dashboard.png)
 
 
 Limitaciones/Próximos Pasos:
